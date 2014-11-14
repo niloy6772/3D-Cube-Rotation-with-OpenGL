@@ -1,4 +1,4 @@
 3D-Cube-Rotation-with-OpenGL
 ============================
 
-Course Project
+draw a 3D cube into the screen
